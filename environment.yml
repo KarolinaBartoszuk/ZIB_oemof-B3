@@ -1,4 +1,4 @@
-name: ZIB_oemof-B3
+name: oemof-B3
 channels:
   - defaults
   - conda-forge
